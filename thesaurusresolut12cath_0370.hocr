@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurusresolut12cath_0370.png"; bbox 0 0 2001 3032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1890 123 1962 660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1890 123 1962 660">
+     <span class='ocr_line' id='line_1_1' title="bbox 1890 123 1920 659; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 1891 639 1920 659; x_wconf 84' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_2' title='bbox 1890 507 1920 614; x_wconf 75' lang='grc' dir='ltr'>ΗΑΝΕΕ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1891 432 1920 494; x_wconf 84' lang='grc' dir='ltr'><strong>ΒΑΥ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1891 342 1920 420; x_wconf 67' lang='lat' dir='ltr'><strong>suff</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1891 263 1919 324; x_wconf 76' lang='lat' dir='ltr'><strong>POS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1891 176 1919 246; x_wconf 87' lang='grc' dir='ltr'>ΙΤΕΜ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1891 123 1919 155; x_wconf 57' lang='lat' dir='ltr'><strong>C»</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1933 139 1962 660; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 1933 581 1962 660; x_wconf 76' lang='grc'><strong>3914</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1933 463 1961 494; x_wconf 80' lang='grc'><strong>13</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1933 387 1961 420; x_wconf 77' lang='grc'><strong>18</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1933 293 1961 326; x_wconf 85' lang='grc'><strong>06</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1933 197 1961 246; x_wconf 87' lang='grc'><strong>005</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1934 139 1960 156; x_wconf 91' lang='grc'><strong>7</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 432 0 2001 3032">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 432 0 2001 3032">
+     <span class='ocr_line' id='line_1_3' title="bbox 432 0 2001 3032; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 432 0 2001 3032; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
